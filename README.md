@@ -1,5 +1,5 @@
 # Epic bitstore &mdash; Multi-tiered cloud-backed blob storage system
-[![Epic-bitstore CI](https://github.com/Cybereason/epic-bitstore/actions/workflows/ci.yml/badge.svg)](https://github.com/Cybereason/epic-bitstore/actions/workflows/ci.yml)
+[![Epic-bitstore CI](https://github.com/epic-framework/epic-bitstore/actions/workflows/ci.yml/badge.svg)](https://github.com/epic-framework/epic-bitstore/actions/workflows/ci.yml)
 
 ## What is it?
 
